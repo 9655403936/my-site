@@ -64,17 +64,17 @@ h2 {
 
 .feature-site {
   padding-top: 65px;
-  background-image: url(""img/block1.png");
+  background-image: no-repeat center url(""img/block1.png");
 }
 
 .feature-design {
   padding-top: 65px;
-  background-image: url(""img/block2.png");
+  background-image: no-repeat center url(""img/block2.png");
 }
 
 .feature-help {
   padding-top: 65px;
-  background-image: url(""img/block3.png");
+  background-image: no-repeat center url(""img/block3.png");
 }
 
 .advantages {
