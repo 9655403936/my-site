@@ -23,7 +23,7 @@ h2 {
 }
 
 .container {
-  width: 510px;
+  width: 310px;
   margin: 0 auto;
   padding: 0 20px;
   text-align: center;
@@ -54,7 +54,14 @@ h2 {
   margin: 0 auto 30px;
   padding: 0 20px;
 }
-
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
 
 .feature-site {
   min-width: 550px;
