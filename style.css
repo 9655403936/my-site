@@ -20,6 +20,7 @@ h1 {
 h2 {
   border-bottom: 2px solid #cccccc;
   padding-bottom: 12px;
+   text-align: center;
 }
 
 .container {
@@ -32,7 +33,7 @@ h2 {
   min-width: 550px;
   height: 286px;
   margin-bottom: 70px;
-  padding-top: 30px;
+  padding-top: 50px;
   background: #847462 no-repeat center url("«img/shapka.jpg");
   background-size: cover;
   color: #ffffff;
