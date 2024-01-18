@@ -27,6 +27,7 @@ h2 {
   margin: 0 auto;
   padding: 0 20px;
   text-align: center;
+  font-size: 76px;
 }
 
 .site-header {
@@ -54,18 +55,14 @@ h2 {
   padding: 0 20px;
 }
 
-.features H2 {
-  display: inline-block;
-  vertical-align: top;
-  width: 30%;
-  margin: 0 5px;
-  background-repeat: no-repeat;
-  background-position: center top;
-  text-align: center;
-}
 
 .feature-site {
-  padding-top: 65px;
+  min-width: 550px;
+  height: 286px;
+  margin-bottom: 70px;
+  padding-top: 50px;
+  background-size: cover;
+  color: #ffffff;
   background-image: url(""img/block1.png");
 }
 
