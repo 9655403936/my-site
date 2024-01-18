@@ -70,17 +70,17 @@ h2 {
   padding-top: 50px;
   background-size: cover;
   color: #ffffff;
-  background-image: url(""img/block1.png");
+  background-image: url("«img/block1.png");
 }
 
 .feature-design {
   padding-top: 65px;
-  background-image: url(""img/block2.png");
+  background-image: url("«img/block2.png");
 }
 
 .feature-help {
   padding-top: 65px;
-  background-image: url(""img/block3.png");
+  background-image: url("«img/block3.png");
 }
 
 .advantages {
