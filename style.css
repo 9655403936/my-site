@@ -13,7 +13,7 @@ h1 {
   font-family: "Georgia", serif;
   text-align: center;
   font-weight: normal;
-  font-size: 56px;
+  font-size: 76px;
 }
 
 h2 {
@@ -26,6 +26,7 @@ h2 {
   width: 510px;
   margin: 0 auto;
   padding: 0 20px;
+  text-align: center;
 }
 
 .site-header {
